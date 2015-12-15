@@ -24,8 +24,8 @@ comp = d$Number.of.tones>=3
 simp  = d$Number.of.tones<3
 
 nx = 100
-comp.d = indepDensity(d[d$Number.of.tones>=3,]$specH.mean, d[d$Number.of.tones>=3,]$Family, min(d$specH.mean), max(d$specH.mean), nx)
-simp.d = indepDensity(d[d$Number.of.tones<3,]$specH.mean, d[d$Number.of.tones<3,]$Family,min(d$specH.mean), max(d$specH.mean), nx)
+comp.d = indepDensity(d[comp,]$specH.mean, d[comp,]$Family, min(d$specH.mean), max(d$specH.mean), nx)
+simp.d = indepDensity(d[simp,]$specH.mean, d[simp,]$Family,min(d$specH.mean), max(d$specH.mean), nx)
 
 
 whole.dist = density(d$specH.mean, from=min(d$specH.mean), to=max(d$specH.mean), n=nx)
