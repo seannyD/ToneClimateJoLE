@@ -1,0 +1,59 @@
+RUNNING TESTS ON gFam 
+
+Difference between complex and non-complex humidity
+0.15 th Test 2: 0.988
+0.15 th Test 3: 0.977
+0.25 th Test 2: 0.8604
+0.25 th Test 3: 0.818
+0.5 th Test 2: 0.0346
+0.5 th Test 3: 0.0368
+0.75 th Test 2: 0.1334
+0.75 th Test 3: 0.1126
+Difference in means
+0.5812
+0.5014
+
+
+
+
+RUNNING TESTS ON Family 
+
+Difference between complex and non-complex humidity
+0.15 th Test 2: 0.882
+0.15 th Test 3: 0.8438
+0.25 th Test 2: 0.8598
+0.25 th Test 3: 0.8514
+0.5 th Test 2: 0.4138
+0.5 th Test 3: 0.372
+0.75 th Test 2: 0.4696
+0.75 th Test 3: 0.44
+Difference in means
+0.7696
+0.7164
+
+
+
+
+RUNNING TESTS ON Autotyp.area 
+
+Difference between complex and non-complex humidity
+0.15 th Test 2: 0.8936
+0.15 th Test 3: 0.8814
+0.25 th Test 2: 0.9606
+0.25 th Test 3: 0.9614
+0.5 th Test 2: 0.8656
+0.5 th Test 3: 0.8684
+0.75 th Test 2: 0.6824
+0.75 th Test 3: 0.6974
+Difference in means
+0.9542
+0.957
+
+
+
+
+
+
+
+
+
