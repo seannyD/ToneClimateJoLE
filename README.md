@@ -7,15 +7,16 @@ These are supplementary materials for Everett, Blasi & Roberts (2015): Climate a
 
 # ANU_numTones_SpecificHumidity_GlottoFams.csv
 The data used in the studies.  Columns are as follows:
-OID_   		ANU phonological database identifier code
-iso			Language iso code
-Language	Language name
-Family		Language family (ANU)
-gFam		Language family (Glottolog)
-Autotyp.area	Geographic area
-Region		Geographic region
-Number.of.tones	Number of contrasting tones
-specH.mean	Specific mean humidity
+
+- OID_   		ANU phonological database identifier code
+- iso			Language iso code
+- Language	Language name
+- Family		Language family (ANU)
+- gFam		Language family (Glottolog)
+- Autotyp.area	Geographic area
+- Region		Geographic region
+- Number.of.tones	Number of contrasting tones
+- specH.mean	Specific mean humidity
 
 # AppendixResponseToHammarstrom.pdf
 A description of the statistical tests carried out.
