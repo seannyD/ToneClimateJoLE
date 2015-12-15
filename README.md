@@ -1,11 +1,14 @@
 # ToneClimateJoLE
 
+For the latest version, please see:
+https://github.com/seannyD/ToneClimateJoLE
+
 These are supplementary materials for Everett, Blasi & Roberts (2015): Climate and language: Has the discourse shifted?
 
 # ANU_numTones_SpecificHumidity_GlottoFams.csv
 The data used in the studies
 
-# ResponseAppendix.pdf
+# AppendixResponseToHammarstrom.pdf
 A description of the statistical tests carried out.
 
 # MonteCarloByFamily2.py
