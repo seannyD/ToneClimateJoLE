@@ -5,7 +5,7 @@ d = read.csv("ANU_numTones_SpecificHumidity_GlottoFams.csv",header=TRUE, strings
 comp = d$Number.of.tones>=3
 simp  = d$Number.of.tones<3
 
-n.sample = 5
+n.sample = 5000
 
 
 quantile_f = function(X,q){
