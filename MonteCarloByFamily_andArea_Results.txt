@@ -1,0 +1,63 @@
+Difference between complex and non-complex humidity
+0.15 th Test 2: 0.9298
+0.15 th Test 3: 0.9162
+0.25 th Test 2: 0.962
+0.25 th Test 3: 0.9644
+0.5 th Test 2: 0.8534
+0.5 th Test 3: 0.8718
+0.75 th Test 2: 0.7312
+0.75 th Test 3: 0.7426
+Difference in means
+0.955
+0.9642
+
+
+
+
+RUNNING TESTS ON gFam 
+
+Difference between complex and non-complex humidity
+0.15 th Test 2: 0.806
+0.15 th Test 3: 0.8064
+0.25 th Test 2: 0.96
+0.25 th Test 3: 0.964
+0.5 th Test 2: 0.8536
+0.5 th Test 3: 0.8656
+0.75 th Test 2: 0.676
+0.75 th Test 3: 0.6986
+Difference in means
+0.9306
+0.9434
+
+
+
+Correlations
+
+RUNNING TESTS ON Family 
+
+r 0.159354979104
+p 0.451892787269
+
+
+
+
+RUNNING TESTS ON gFam 
+
+r 0.165178768208
+p 0.436416053811
+
+
+
+Low humidity correlations
+RUNNING TESTS ON Family 
+
+Low H r 0.276279949742
+Low H p 0.288542980495
+
+
+
+
+RUNNING TESTS ON gFam 
+
+Low H r 0.281088489908
+Low H p 0.278826559102
